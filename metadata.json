@@ -1,0 +1,7 @@
+{
+  "name": "PersonaPix",
+  "description": "A professional profile image generator and editor powered by Gemini 2.5 Flash Image. Create stunning, role-specific avatars from your photos using AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
